@@ -1,11 +1,11 @@
-# 🏛️ Karna Quiz Exams Centre — Dual-Mode `.KQZ` Encrypted Vault (`v9`)
+# 🏛️ Karna Quiz Exams Centre — Dual-Mode `.KQZ` Encrypted Vault (`v10`)
 
 **Unbreakable AES-256-GCM + GZIP + 4-Shard Obfuscated Exam Vault** for **Andhra Pradesh (AP), Telangana (TS) & Central Government Competitive Exams**.
 
-This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v9` — **36 Pure Separate Subjects • 108 Lessons • 360 PYQs**):
+This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v10` — **40 Pure Separate Subjects • 120 Lessons • 400 PYQs**):
 
 ### 1. 💡 Practice Quiz Vault (Root: `<category>/<module>_v1.kqz`)
-- Designed for **Quiz / Practice Mode (`💡 క్విజ్ ప్రాక్టీస్ — Quiz + Hints`)**.
+- Designed for **Quiz / Practice Mode (`💡 క్విజ్ ప్రాక్టీస్ — Quiz + Hints`)** and **Lesson Study Notes (`📖 పాఠం నోట్స్ & షార్ట్‌కట్స్`)**.
 - Options retain their **memory hints (`(...)` / `— ...`)** so aspirants learn the exact concept behind every distractor as they read the options.
 - Selecting an option immediately unlocks the **Bilingual Detailed Explanation** and **5-Second Memory Shortcut Trick**.
 
@@ -18,7 +18,7 @@ This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v9` — **36 Pur
 
 ---
 
-## 📋 Complete Catalog of 36 Separate Subject Modules (360 Curated PYQs • 108 Lessons)
+## 📋 Complete Catalog of 40 Separate Subject Modules (400 Curated PYQs • 120 Lessons)
 
 | # | Category | Official Paper Code | `.KQZ` Shard Path | Marks / Q | Neg Mark | Qs |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
@@ -58,3 +58,7 @@ This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v9` — **36 Pur
 | 34 | **TTC, TET & DSC** | `SOCIAL DSC` | `tet_dsc/dsc_social_studies_v1.kqz` | `+0.5` | `0.00` | 10 |
 | 35 | **AP & TS Police** | `BNS LAW` | `police/bns_criminal_laws_v1.kqz` | `+1.0` | `-0.20` | 10 |
 | 36 | **APPSC & TGPSC** | `IND HIST` | `appsc/indian_history_master_v1.kqz` | `+1.0` | `-0.33` | 10 |
+| 37 | **APPSC & TGPSC** | `ART & CULT` | `appsc/ap_ts_art_culture_v1.kqz` | `+1.0` | `-0.33` | 10 |
+| 38 | **APPSC & TGPSC** | `ENV & DM` | `appsc/env_disaster_mgmt_v1.kqz` | `+1.0` | `-0.33` | 10 |
+| 39 | **Banking PO/Clerk** | `DI & STATS` | `banking/di_statistics_math_v1.kqz` | `+1.0` | `-0.25` | 10 |
+| 40 | **Sachivalayam & VRO** | `RTI & GOV` | `sachivalayam/ethics_rti_governance_v1.kqz` | `+1.0` | `-0.25` | 10 |
