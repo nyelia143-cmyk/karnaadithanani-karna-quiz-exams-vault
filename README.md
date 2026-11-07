@@ -1,8 +1,8 @@
-# 🏛️ Karna Quiz Exams Centre — Dual-Mode `.KQZ` Encrypted Vault (`v7`)
+# 🏛️ Karna Quiz Exams Centre — Dual-Mode `.KQZ` Encrypted Vault (`v8`)
 
 **Unbreakable AES-256-GCM + GZIP + 4-Shard Obfuscated Exam Vault** for **Andhra Pradesh (AP), Telangana (TS) & Central Government Competitive Exams**.
 
-This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v7`):
+This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v8`):
 
 ### 1. 💡 Practice Quiz Vault (Root: `<category>/<module>_v1.kqz`)
 - Designed for **Quiz / Practice Mode (`💡 క్విజ్ ప్రాక్టీస్ — Quiz + Hints`)**.
@@ -18,7 +18,7 @@ This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v7`):
 
 ---
 
-## 📋 Complete Catalog of 28 Official Public Exam Modules (280 Curated PYQs)
+## 📋 Complete Catalog of 32 Official Public Exam Modules (320 Curated PYQs)
 
 | # | Category | Official Paper Code | `.KQZ` Shard Path | Marks / Q | Neg Mark | Qs |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
@@ -50,3 +50,7 @@ This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v7`):
 | 26 | **Forest, Army & Excise** | `AGNIVEER CBT` | `defence_forest/agniveer_excise_master_v1.kqz` | `+1.0` | `-0.25` | 10 |
 | 27 | **ANM, ICDS & Gurukula** | `ANM/NURSE P-II` | `health_gurukula/anm_nurse_nutrition_v1.kqz` | `+1.0` | `0.00` | 10 |
 | 28 | **ANM, ICDS & Gurukula** | `ICDS/HWO P-II` | `health_gurukula/icds_gurukula_welfare_v1.kqz` | `+1.0` | `0.00` | 10 |
+| 29 | **APPSC & TGPSC** | `SCHEMES 2026` | `appsc/ap_ts_welfare_schemes_2026_v1.kqz` | `+1.0` | `-0.33` | 10 |
+| 30 | **APPSC & TGPSC** | `GR-4 CPT` | `appsc/group4_computer_cpt_v1.kqz` | `+1.0` | `-0.33` | 10 |
+| 31 | **TTC, TET & DSC** | `DSC EVS/GK` | `tet_dsc/sa_sgt_gk_science_social_v1.kqz` | `+0.5` | `0.00` | 10 |
+| 32 | **SSC & Railways** | `RRB/SSC MATH` | `ssc_rrb/ntpc_quant_reasoning_v1.kqz` | `+1.0` | `-0.33` | 10 |
