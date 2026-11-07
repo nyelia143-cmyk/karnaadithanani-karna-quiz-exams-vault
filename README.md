@@ -1,12 +1,20 @@
-# 🏛️ Karna Quiz Exams Centre — Official Public Exam `.KQZ` Encrypted Vault (`v6`)
+# 🏛️ Karna Quiz Exams Centre — Dual-Mode `.KQZ` Encrypted Vault (`v7`)
 
 **Unbreakable AES-256-GCM + GZIP + 4-Shard Obfuscated Exam Vault** for **Andhra Pradesh (AP), Telangana (TS) & Central Government Competitive Exams**.
 
-Every `.kqz` exam paper in this repository strictly follows **Official Public Exam Question Paper Standards**:
-- **Symmetric 4-Option Public Exam Format `(A)`, `(B)`, `(C)`, `(D)`:** Clean, spoiler-free, uniform-length options with realistic distractors (including Statement-Based `I, II, III`, Match-the-Following `A-B-C-D`, and Chronological Order PYQs).
+This repository hosts **BOTH** sets of `.kqz` shards (`Manifest v7`):
+
+### 1. 💡 Practice Quiz Vault (Root: `<category>/<module>_v1.kqz`)
+- Designed for **Quiz / Practice Mode (`💡 క్విజ్ ప్రాక్టీస్ — Quiz + Hints`)**.
+- Options retain their **memory hints (`(...)` / `— ...`)** so aspirants learn the exact concept behind every distractor as they read the options.
+- Selecting an option immediately unlocks the **Bilingual Detailed Explanation** and **5-Second Memory Shortcut Trick**.
+
+### 2. 🏛️ Official Public Exam Vault (`public_exams/<category>/<module>_v1.kqz`)
+- Designed for **Real Public Exam Hall Mode (`🏛️ రియల్ పబ్లిక్ ఎగ్జామ్ — CBT Exam`)**.
+- **Symmetric 4-Option Public Exam Format `(A)`, `(B)`, `(C)`, `(D)`:** Clean, spoiler-free, uniform-length options with zero hints in the options.
 - **Balanced Official Answer Key (`A / B / C / D`):** Answer keys are evenly distributed across `(A)`, `(B)`, `(C)`, and `(D)` in every paper — never biased toward a single option.
 - **Official Commission Marking Schemes:** Exact positive and negative marking rules per commission (`APPSC -0.33`, `TGPSC 0.00`, `SLPRB Police -0.20`, `Mega DSC +0.50 / 0.00`, `TET +1.0 / 0.00`, `IBPS/SBI -0.25`, `RRB -0.33`, `SSC -0.25`, `Sachivalayam/VRO -0.25`, `Transco JLM 0.00`, `Forest FBO -0.33`, `ANM/ICDS/Gurukula 0.00`).
-- **Bilingual (Telugu + English) Post-Answer Solutions:** Detailed explanations and 5-second memory shortcut codes revealed strictly after answering.
+- **Explanations & Shortcut Tricks Hidden Until Final Submission.**
 
 ---
 
